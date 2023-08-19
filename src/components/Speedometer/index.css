@@ -1,0 +1,32 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-color: #07080c;
+}
+.image {
+  width: 80%;
+  height: 40%;
+}
+.heading {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
+.details {
+  color: #94a3b8;
+}
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+}
+.button2 {
+  background-color: #07080c;
+  color: #94a3b8;
+}
